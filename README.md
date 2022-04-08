@@ -45,3 +45,13 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 | ----------- | ----------- |
 | System Configuration → Integrated NIC      | Enabled       |
 | System Configuration → SATA Operation   | AHCI        |
+| Security → PTT Security/PTT On     | Disabled       |
+| Secure Boot → Secure Boot Enable   | Disabled        |
+| Secure Boot → Secure Boot Mode      | Disabled       |
+| Intel SGE → SGX   | Disabled        |
+| Power Management → USB Wake Support      | Enabled       |
+| Power Management → Wake on LAN/WLAN   | Lan only        |
+| Power Management → Block Sleep      | Disabled       |
+| Virtualization Support → Virtualization   | Enabled        |
+| Virtualization Support → VT For Direct I/O      | Enabled       |
+| Advanced configurations → ASPM   | Auto        |
