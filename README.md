@@ -50,7 +50,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 | Secure Boot → Secure Boot Mode      | Audit Mode       |
 | Intel SGE → SGX   | Disabled        |
 | Power Management → USB Wake Support      | Enabled       |
-| Power Management → Wake on LAN/WLAN   | Lan only        |
+| Power Management → Wake on LAN/WLAN   | Lan Only        |
 | Power Management → Block Sleep      | Disabled       |
 | Virtualization Support → Virtualization   | Enabled        |
 | Virtualization Support → VT For Direct I/O      | Enabled       |
