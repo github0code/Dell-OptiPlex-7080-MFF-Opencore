@@ -17,7 +17,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 
 无线网卡/蓝牙：博通 BCM94360Z3
 
-SSD:   WD SN730 M.2 256G
+固态硬盘:  WD SN730 M.2 256G
 
 # 正常工作：
 
