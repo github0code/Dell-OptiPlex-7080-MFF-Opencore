@@ -1,7 +1,7 @@
 # Dell-OptiPlex-7080-MFF-Opencore
 OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 
-基本配置：
+#基本配置：
 
 处理器：Intel Comet Lake I7-10700T
 
