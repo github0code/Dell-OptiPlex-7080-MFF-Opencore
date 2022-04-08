@@ -57,7 +57,7 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 | Advanced configurations → ASPM   | Auto        |
 
 # 参考教程：
-[折腾 7080MFF 黑苹果 OpenCore][1]
+[折腾 7080MFF 黑苹果 OpenCore][1]<br/>
 [3dudu/dell-optiplex-7080-hackintosh-opencore][2]  
 
 [1]:https://www.jianshu.com/p/d7cfaae60509
