@@ -3,9 +3,9 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 
 # 基本配置：
 
-处理器：Intel Comet Lake I7-10700T
+&ensp;处理器：Intel Comet Lake I7-10700T
 
-芯片组：Intel Q470
+&ensp;芯片组：Intel Q470
 
 内存：8G DDR4 3200 * 2
 
