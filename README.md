@@ -7,9 +7,9 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 
 &ensp;&ensp;芯片组：Intel Q470
 
-&ensp;&ensp;内存：8G DDR4 3200 * 2
+&ensp;&ensp;内存：16G DDR4 3200 8G * 2
 
-&ensp;&ensp;显卡：UHD 630
+&ensp;&ensp;显卡：Intel UHD 630
 
 &ensp;&ensp;声卡：ALC256 (内置扬声器+耳麦一体+音频输出)
 
