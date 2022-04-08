@@ -38,3 +38,10 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 8. USB, 已定制
 
 9. 重启关机正常
+
+# BIOS设置：
+
+| 设置项     | 值 |
+| ----------- | ----------- |
+| System Configuration → Integrated NIC      | Enabled       |
+| System Configuration → SATA Operation   | AHCI        |
