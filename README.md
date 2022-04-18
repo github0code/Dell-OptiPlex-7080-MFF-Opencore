@@ -62,3 +62,19 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 
 [1]:https://www.jianshu.com/p/d7cfaae60509
 [2]:https://github.com/3dudu/dell-optiplex-7080-hackintosh-opencore
+
+# 效果图：
+
+<img width="697" alt="截屏2022-04-18 21 27 12" src="https://user-images.githubusercontent.com/103224673/163815123-d6cc5169-fd56-418e-80e3-932a634402ea.png">
+
+<img width="698" alt="截屏2022-04-18 21 15" src="https://user-images.githubusercontent.com/103224673/163815142-0c21d9a5-529a-4796-93b6-86ea3028270e.png">
+
+<img width="698" alt="截屏2022-04-18 21 15 55" src="https://user-images.githubusercontent.com/103224673/163815175-8befcafe-664e-4d3a-9ba3-ca55c42c851f.png">
+
+<img width="780" alt="截屏2022-04-18 21 21 48" src="https://user-images.githubusercontent.com/103224673/163815204-d6ce9a45-9161-4dbb-9770-c235333ee9f2.png">
+
+<img width="780" alt="截屏2022-04-18 21 21 21" src="https://user-images.githubusercontent.com/103224673/163815251-d53c7fbb-1f4b-48e7-aa79-47c2609dafc4.png">
+
+<img width="822" alt="截屏2022-04-18 21 20 43" src="https://user-images.githubusercontent.com/103224673/163815295-75a9ee5e-d557-4b3d-9b2f-108ba6a70721.png">
+
+<img width="822" alt="截屏2022-04-18 21 20 17" src="https://user-images.githubusercontent.com/103224673/163815332-360ff195-c23a-4431-bb14-6194359cc4a1.png">
