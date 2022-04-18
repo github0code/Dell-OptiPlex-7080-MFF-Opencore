@@ -80,3 +80,5 @@ OpenCore for macOS Monterey (12.3.1) on Dell OptiPlex 7080 MFF
 <img width="822" alt="截屏2022-04-18 21 20 17" src="https://user-images.githubusercontent.com/103224673/163815332-360ff195-c23a-4431-bb14-6194359cc4a1.png">
 
 <img width="825" alt="截屏2022-04-09 21 47 18" src="https://user-images.githubusercontent.com/103224673/163817302-61581fa2-0796-4140-9287-8fe564d5bc6e.png">
+
+<img width="934" alt="截屏2022-04-18 21 49 05" src="https://user-images.githubusercontent.com/103224673/163817816-65381e96-3569-4bc0-9f9d-e335bd625b96.png">
